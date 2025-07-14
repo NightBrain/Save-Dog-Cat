@@ -1,0 +1,219 @@
+/* just decorate demo page */
+
+body{
+
+	background-color: #D2F4EA;
+
+}
+
+h1 {
+
+  margin-bottom: 0px;
+
+}
+
+h2 {
+
+  margin-top: 0px;
+
+  font-style: italic;
+
+}
+
+#acc_id, #amount {
+
+  width: 90%;
+
+  font-size: x-large;
+
+  padding: 10px;
+
+  margin-bottom: 10px;
+
+}
+
+#qrcode {
+
+  margin: 15px auto;
+
+}
+
+.formg{
+
+  font-size: 20px;
+
+	font-weight: lighter;
+
+	border: none;
+
+	border-color: #465347;
+
+	background-color: #d1d1d1;
+
+	color: #000000;
+
+	padding: 10px 30px;
+
+	border-radius: 50px;
+
+	transition : 0.2s;
+
+  text-align: center;
+
+}
+
+.formgg{
+
+  font-size: 20px;
+
+	font-weight: lighter;
+
+	border: none;
+
+	border-color: #465347;
+
+	background-color: #00ccff;
+
+	color: #000000;
+
+	padding: 10px 30px;
+
+	border-radius: 50px;
+
+	transition : 0.2s;
+
+}
+
+.bb{
+
+	border-radius: 25px;
+
+	box-shadow: 5px 5px 10px rgb(182, 182, 182);
+
+}
+
+.pp{
+
+	margin: 40px;
+
+	padding: 10px;
+
+
+
+}
+
+.bg{
+
+    background-color: #4DD4AC;
+
+}
+
+.f{
+
+	color: #fff;
+
+}
+
+.ff{
+
+	color: #6fe6c2;
+
+}
+
+.fgg{
+
+	color: #4DD4AC;
+
+}
+
+.fd{
+
+	background-color: #4DD4AC;
+
+	border-radius:45px;
+
+}
+
+.fg{
+
+	color: #FFE69C;
+
+}
+
+.bgg{
+
+	background-color: #b1ffe8;
+
+}
+
+.c{
+
+	color: #1bc491;
+
+}
+
+.bggen{
+
+	background-color: #b1ffe8;
+
+}
+
+.bo{
+
+	background-color: #D2F4EA;
+
+}
+
+.bttn{
+
+	border:4px solid #18dba1;
+
+	padding:20px 0; 
+
+	background:#FFE69C;
+
+	width:200px;
+
+	border-radius:45px;
+
+	font-size: 20px;
+
+}
+
+.btttn{
+
+	border:4px solid #FFE69C;
+
+	padding:20px 0; 
+
+	background:#18dba1;
+
+	width:200px;
+
+	border-radius:45px;
+
+	font-size: 20px;
+
+}
+
+.btotn{
+
+	border:4px solid #18dba1;
+
+	padding:20px 50px; 
+
+	background:#FFE69C;
+
+	width:200px;
+
+	border-radius:45px;
+
+	font-size: 20px;
+
+}
+
+.bobo{
+
+	border-radius: 50px;
+
+}
